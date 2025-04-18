@@ -16,19 +16,19 @@
   "env": {
     "API_ID": {
       "description": "Get this value from https://my.telegram.org or @UseTGSBot",
-      "value": ""
+      "value": "22324226"
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org or @UseTGSBot",
-      "value": ""
+      "value": "7f2548e37a79f04b31e48c85ac95ca3e"
     },
     "BOT_TOKEN": {
       "description": "Your bot token from @BotFather",
-      "value": ""
+      "value": "7854786855:AAE19xHdHIyWs4udNDNUCFr3XSGvxBMFVXk"
     },
     "BOT_OWNER_ID": {
       "description": "Enter Your Telegram id",
-      "value": ""
+      "value": "1016442305"
     },
     "BANNED_USERS": {
       "description": "If you want to add a caption to the forwarded file, enter it here",
@@ -40,7 +40,7 @@
     },
     "DATABASE_URI": {
       "description": "pyrogram string Seccion - https://replit.com/@JijinR/PyroSessionString?v=1",", 
-      "value": ""
+      "value": "BQFUpAIAtEGTwn2-EJs2d5TjauESaQG4EKP4zkEYyLTctY9mBiDcQXMDGwFoe97-Cj-2wrH0CUYX-ID91z_1Teh_vFFfQBHwNmnwHnuYKk76FjRLBIY20cICmLiz9YpkK_hAzWrqF5HAMbEXwGClpJ10iE3APkcALBUfgj8lW7Gcb27fT-UQqqxmI1uCWlMeNQ44Su_emo9waWZO1uxNq90HrlEIr0XuTgPAqYrDe19tmPjw9_8QhDySvZtI1UxQlJl6tFuTowktcPoNRgPiseyS1HGRp5G7xJUvwdYMzqr2tzsr9r8JUmAW3Ord-su3U6lsfffCbbCgoS4-WSZtYbtPRfThNQAAAAA8la3BAA"
     }
   },
   "formation": {
